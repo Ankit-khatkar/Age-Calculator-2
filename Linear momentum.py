@@ -1,0 +1,21 @@
+print("Hello world ! I am Ankit Khatkar, {Developer of Linear Momentum}")
+print("")
+x=input("Are Agree trems & conditions ? ")
+print(x)
+if x==str("agree" and "Agree" and "sure" and "yes"):
+  print("Let's start !")
+  y=int(input("Please, Enter mass of any object."))
+  
+  z=int(input("Please, Enter velocity of any object."))
+  print("Final, Linear Momentum of object is "+str(y*z)+" kg-m/s.")
+  print("")
+  print("Thank You !")
+  print("Please,Give me a Star ⭐🌟🌟")
+else:
+  print("Okey, I hope that we'll meet again.")
+  print("")
+  print("Thank You ! ")
+  print("")
+  print(".                  Nice to meet you.")
+  print("")
+  print("Please, Give me a 🔯🌟🔯🔯🌟🌟 Star !")
